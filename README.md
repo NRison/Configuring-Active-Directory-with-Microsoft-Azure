@@ -15,7 +15,6 @@ Watch me install and launch Active Directory within Azure Virtual Machines!<br /
 - PowerShell
 
 
-<h2>Deployment and Configuration Steps</h2>
 
 ![image](https://github.com/user-attachments/assets/f8c23556-c8e7-402c-9739-1de83c8ad9aa)  
 
